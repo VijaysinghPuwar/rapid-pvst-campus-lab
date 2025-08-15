@@ -1,6 +1,6 @@
 # Rapid-PVST Campus Lab (STP + PortFast/BPDU Guard)
 
-Small, resilient Layer-2 campus built in Cisco Packet Tracer to demonstrate:
+Resilient Layer-2 campus built in Cisco Packet Tracer to demonstrate:
 - **Rapid-PVST** fast convergence (<10s)
 - **Per-VLAN roots** (SW1=root VLAN10, SW2=root VLAN20)
 - **Dual-homed access** with alternate/blocked path
