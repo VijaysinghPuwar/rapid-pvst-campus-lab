@@ -41,7 +41,6 @@ Resilient Layer-2 campus built in Cisco Packet Tracer to demonstrate:
 ## Files
 - `/configs` — per-device configs (sanitized)
 - `/images` — topology + results
-- `/docs` — LinkedIn text + optional report
 - `/pkt` — Packet Tracer file
 
 ## Notes
