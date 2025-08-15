@@ -47,5 +47,3 @@ Resilient Layer-2 campus built in Cisco Packet Tracer to demonstrate:
 - Some 2960 PT images don’t support EtherChannel; this lab uses **individual trunks**.  
 - Replace device models with 3560s if you want to extend to **LACP**.
 
-## License
-MIT
