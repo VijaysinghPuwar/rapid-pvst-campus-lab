@@ -13,7 +13,7 @@ Resilient Layer-2 campus built in Cisco Packet Tracer to demonstrate:
 `SW4 (2960)` dual-homed to SW1, cross to SW2  
 `SW5 (2950)` = rogue/test switch on SW4 Fa0/10 (edge)
 
-![Topology](images/topology.png)
+![Topology](https://media.licdn.com/dms/image/v2/D4D2DAQGseJB0C-p5rw/profile-treasury-image-shrink_800_800/B4DZiwBQABHsAc-/0/1755299774901?e=1755907200&v=beta&t=8nBBbgsuyeU7JEI5yomydS6QJLMuz6a_IFNIxnXIEEM)
 
 ## How to run
 1. Open `pkt/Rapid-PVST-Lab.pkt` in Packet Tracer **8.x+**.  
